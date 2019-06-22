@@ -1,0 +1,3 @@
+rootProject.name = 'sdm_kishtwar_5022'
+
+include ':app'

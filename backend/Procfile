@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT sdm_kishtwar_5022.wsgi:application
